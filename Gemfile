@@ -19,6 +19,15 @@ gem 'uglifier', '>= 1.3.0'
 gem 'rails-controller-testing'
 
 
+gem 'carrierwave',             '0.10.0'
+gem 'mini_magick',             '3.8.0'
+gem 'fog',                     '1.36.0'
+
+
+
+
+
+
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 # Use CoffeeScript for .coffee assets and views
